@@ -1,7 +1,7 @@
 # GameVault DBMS - Naurose
 
 ## To run the server
-# Have XAMPP and Node.js along with Node Package Manager npm installed in order to operate the server.
+### Have XAMPP and Node.js along with Node Package Manager npm installed in order to operate the server.
 1. Start `Apache` and `MySQl` in XAMPP.
 2. Go to phpmyadmin, by clicking on the `Admin` button next to the `MySQl` start button, import the SQL file named schema.sql.
 3. Go to RAWG API's website, sign in and acquire a free API key.
